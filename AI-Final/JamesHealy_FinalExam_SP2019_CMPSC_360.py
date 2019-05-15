@@ -1,8 +1,8 @@
 #James Healy
 #AI
 #Final Exam
-#This was a final exam where we ad to read in nulitple features from a file
-#then fit it into a Kmeans Clustering algorithm and then siplay pie charts based of the cluster groups
+#This was a final exam where we had to read in nulitple features from a file
+#then fit it into a Kmeans Clustering algorithm and then display pie charts based off the cluster groups
 
 
 import csv
